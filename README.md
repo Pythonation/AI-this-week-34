@@ -69,6 +69,40 @@ ChatGPT Operator  يحقق 2500 دولار يوميًا! تجربة رائد أ�
 
 ✨ **تقنية كسر أمان نماذج ذكاء الاصطناعي:** [https://github.com/Pythonation/Happy-Ending-Attack-Research](https://github.com/Pythonation/Happy-Ending-Attack-Research)
 
+### المزيد من الروابط
+*   **مقال Kten News حول روبوت الدردشة الفرنسي "لوسي":** [French AI chatbot taken offline after wild answers led to online ridicule](https://www.kten.com/news/business/french-ai-chatbot-taken-offline-after-wild-answers-led-to-online-ridicule/article_1048d86f-e894-58fe-b55f-4519276d944c.html)
+*   **تغريدة Kimonimus على X حول نماذج صينية إضافية:** [تغريدة Kimonimus](https://x.com/kimmonismus/status/1884855567149154642)
+*   **موقع Gamma AI (أداة العروض التقديمية الذكية):** [Gamma AI](https://gamma.app/)
+*   **موقع Hailuo AI Video (منصة توليد الفيديو بالذكاء الاصطناعي):** [Hailuo AI Video](https://hailuoai.video/)
+*   **الورقة العلمية "Dagger Behind Smile: Fool LLMs with a Happy Ending Story" على Arxiv:** [Dagger Behind Smile: Fool LLMs with a Happy Ending Story](https://arxiv.org/html/2501.13115v1)
+*   **منصة Qwen Chat المجانية:** [Qwen Chat](https://chat.qwenlm.ai/)
+*   **موقع Kimi AI (نموذج Kimi المجاني):** [Kimi AI](https://kimi.ai/)
+*   **تغريدة Tesla AI على X حول القيادة الذاتية في المصانع:** [Tesla AI Tweet](https://x.com/Tesla_AI/status/1884457749226090590)
+*   **تغريدة tsarnick على X حول اتهامات DeepSeek بالسطو:** [tsarnick Tweet](https://x.com/tsarnick/status/1884352911192514975)
+*   **موقع Proxy AI (وكيل الذكاء الاصطناعي الأوروبي):** [Proxy AI](https://proxy.convergence.ai)
+*   **مقال OpenAI عن ChatGPT Gov:** [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov)
+*   **فيديو Sam Altman Loopt Pitch على يوتيوب:** [Sam Altman Loopt Pitch](https://www.youtube.com/watch?v=P5izvkusAMM)
+*   **صفحة Janus Pro 1B على Hugging Face (تجربة توليد صور DeepSeek):** [Janus Pro 1B on Hugging Face](https://huggingface.co/spaces/webml-community/janus-pro-webgpu)
+*   **تغريدة loras.dev على X (مولد صور LoRA مفتوح المصدر):** [loras.dev Tweet](https://t.co/NHWID8WZ5r)
+*   **مقال TestingCatalog حول Grok Voice على iOS:** [xAI Develops Voice Mode for iOS App with Grok and ElevenLabs Models](https://www.testingcatalog.com/xai-develops-voice-mode-for-ios-app-with-grok-and-elevenlabs-models)
+*   **تدوينة Dario Amodei (رئيس Anthropic) "Machines of Loving Grace":** [Machines of Loving Grace by Dario Amodei](https://darioamodei.com/machines-of-loving-grace)
+*   **مقال The Rundown AI حول استثمار ميتا 65 مليار دولار:** [Meta's Manhattan-Sized AI Play](https://www.therundown.ai/p/metas-manhattan-sized-ai-play)
+*   **موقع Pika AI (أداة توليد الفيديو بالذكاء الاصطناعي):** [Pika AI](https://pikartai.com/pika-2-1/)
+*   **مقال TechCrunch حول تطبيق DeepSeek في متاجر التطبيقات:** [DeepSeek displaces ChatGPT as the app store’s top app](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app)
+*   **موقع Codev (منصة بناء تطبيقات ويب Next.js):** [Codev](https://www.co.dev/)
+*   **صفحة UI-TARS على GitHub (وكيل ByteDance للتحكم في الحاسوب):** [UI-TARS on GitHub](https://github.com/bytedance/UI-TARS-desktop?tab=readme-ov-file)
+*   **قائمة تشغيل دورة ستانفورد في التعلم المعزز على يوتيوب:** [Stanford Reinforcement Learning Course Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+*   **صفحة Hugging Face لتتبع إعجابات نماذج الذكاء الاصطناعي:** [Hugging Face Like History](https://huggingface.co/spaces/timqian/like-history#deepseek-ai/DeepSeek-R1&black-forest-labs/FLUX.1-dev&stabilityai/stable-diffusion-xl-base-1.0&meta-llama/Meta-Llama-3-8B)
+*   **تغريدة Sān diǎn JS على X (محرك WebGPU ثلاثي الأبعاد):** [Sān diǎn JS Tweet](https://t.co/mBxabRFiBO)
+*   **موقع alphaXiv (منصة نقاش أبحاث arXiv):** [alphaXiv](alphaxiv.org)
+*   **صفحة Fabric على GitHub (إطار تلقينات LLM مفتوح المصدر):** [Fabric on GitHub](https://github.com/danielmiessler/fabric)
+*   **تغريدة Chris Corner على X حول تجربة ChatGPT Operator:** [Chris Corner Tweet](https://x.com/mhp_guy/status/1884352015335125153)
+*   **موقع Postman (أدوات بناء وكلاء API):** [Postman](https://www.postman.com/)
+*   **صفحة Ottogrid Browser Agent على GitHub (وكيل ويب مفتوح المصدر):** [Ottogrid Browser Agent on GitHub](https://browser.ottogrid.ai/)
+*   **فيديو شرح DeepSeek R1 لجدتك على يوتيوب (قناة Alex):** [DeepSeek R1 Explained to Grandma (Alex Video)](https://www.youtube.com/watch?v=kv8frWeKoeo)
+*   **شرح مفهوم الضبط الدقيق المعزز على Datacamp:** [Reinforcement Fine-Tuning Explanation on Datacamp](https://www.datacamp.com/tutorial/gpt-4o-vision-fine-tuning)
+
+آمل أن تكون هذه القائمة شاملة ودقيقة. إذا كان هناك أي شيء آخر يمكنني مساعدتك به، فلا تتردد في سؤالي.
 ## 💡 شاركنا رأيك في التعليقات: 💡
 
 ما هي الأداة أو الخبر الذي أثار اهتمامك أكثر؟
@@ -81,4 +115,3 @@ ChatGPT Operator  يحقق 2500 دولار يوميًا! تجربة رائد أ�
 
 ---
 
-## الحلقة كاملة (نص السكريبت):
